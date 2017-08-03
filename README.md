@@ -1,1 +1,1 @@
-# HIGDA-preBootCamp
+# AfricasTalking-ussd-app
